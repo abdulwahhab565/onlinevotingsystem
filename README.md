@@ -1,2 +1,0 @@
-# onlinevotingsystem
-vb.net project
