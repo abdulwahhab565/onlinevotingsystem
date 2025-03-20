@@ -1,0 +1,13 @@
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\bin\Debug\MainEntry.exe.config
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\bin\Debug\MainEntry.exe
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\bin\Debug\MainEntry.pdb
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\bin\Debug\MainEntry.xml
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\obj\Debug\MainEntry.vbproj.AssemblyReference.cache
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\obj\Debug\MainEntry.Form1.resources
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\obj\Debug\MainEntry.Form2.resources
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\obj\Debug\MainEntry.Resources.resources
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\obj\Debug\MainEntry.vbproj.GenerateResource.cache
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\obj\Debug\MainEntry.vbproj.CoreCompileInputs.cache
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\obj\Debug\MainEntry.exe
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\obj\Debug\MainEntry.xml
+C:\Users\Hush Puppy Jnr\Desktop\setupFile\MainEntry\obj\Debug\MainEntry.pdb
